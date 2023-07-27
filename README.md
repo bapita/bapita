@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bapita
-- 👀 I’m interested in Automated Testing using Selenium / Cypress
-- 🌱 I’m currently learning Cypress
-- 💞️ I’m looking to collaborate on React and Vue
+- 👀 I’m interested in Automated Testing using Selenium and TestNG
+- 🌱 I’m also a Cypress geek
+- 💞️ I’m looking to collaborate on React and Wordpress
 - 📫 How to reach me ... just email bapitaroy14@gmail.com
 
 <!---
